@@ -8,4 +8,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Angular 💻️Typescript
 
-## Feito com ❤️ por hellenmassolin 👋️
+## Feito com ❤️ por hellenm
